@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T07:53:57.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" version="21.2.9" etag="u8Pr1mtcP70lOcYPnPOE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T08:05:25.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="oeFAZgtXkwrbiQBDxxxN" version="21.2.9" type="github">
   <diagram name="第 1 页" id="QQ08cqp9cGXXNecCyfiW">
-    <mxGraphModel>
+    <mxGraphModel dx="1392" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nHiNYUef9wz4A3YurCru-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;小米大數據分析平臺&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="440" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;異構數據&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;異構計算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;高動態負載&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;澳門普强語音人工智能平臺&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;高I/O開銷&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;高并發&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nHiNYUef9wz4A3YurCru-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;個性化模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
