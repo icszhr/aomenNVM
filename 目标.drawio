@@ -1,85 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T12:32:22.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="V_49NkPmRv7bU0eycjN0" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T04:54:37.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="cI0UFX5bWQkwX1cL4xjC" version="21.3.0" type="github">
   <diagram name="第 1 页" id="VOPKgNMRvSXte2pSWkVX">
-    <mxGraphModel dx="961" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="736" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-22" value="" style="group;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="470" width="240" height="360" as="geometry" />
+        <mxCell id="uBuLERP5Y8FP9kmEtXCN-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="470" width="110" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;endWidth=20.476190476190474;endSize=3.604761904761905;fillColor=#e8d7b0;strokeColor=none;" edge="1" parent="YM-pc2uRU4Drdpsct8SV-22" source="YM-pc2uRU4Drdpsct8SV-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="310" y="70" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="uBuLERP5Y8FP9kmEtXCN-1" vertex="1">
+          <mxGeometry width="110" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-22">
-          <mxGeometry width="240" height="360" as="geometry" />
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;任務點&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uBuLERP5Y8FP9kmEtXCN-1" vertex="1">
+          <mxGeometry x="14.47" width="81.05" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;任務&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-22">
-          <mxGeometry x="90" width="60" height="30" as="geometry" />
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;文件系統&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uBuLERP5Y8FP9kmEtXCN-1" vertex="1">
+          <mxGeometry x="9.166666666666664" y="40" width="91.66666666666664" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;面嚮混合NVM存儲系統的一體化文件與數據系統&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-22">
-          <mxGeometry x="20" y="40" width="200" height="60" as="geometry" />
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;内存管理&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="uBuLERP5Y8FP9kmEtXCN-1" vertex="1">
+          <mxGeometry x="9.166666666666664" y="120" width="91.66666666666664" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;面向NVM资源池的&lt;br&gt;多层级内存管理策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-22">
-          <mxGeometry x="20" y="120" width="200" height="60" as="geometry" />
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;任務調度&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uBuLERP5Y8FP9kmEtXCN-1" vertex="1">
+          <mxGeometry x="9.166666666666664" y="200" width="91.66666666666664" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;基于NVM拓扑感知的任务调度和数据交换策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-22">
-          <mxGeometry x="20" y="200" width="200" height="60" as="geometry" />
+        <mxCell id="uBuLERP5Y8FP9kmEtXCN-2" value="" style="group;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="386" y="471" width="240" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新型分布式内存计算系&lt;br&gt;统应用技术示范研究&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-22">
-          <mxGeometry x="20" y="280" width="200" height="60" as="geometry" />
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;" parent="uBuLERP5Y8FP9kmEtXCN-2" vertex="1">
+          <mxGeometry width="240" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="470" width="240" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-29">
-          <mxGeometry width="240" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-31" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;對應目標&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-29">
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-31" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;研究目標&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="uBuLERP5Y8FP9kmEtXCN-2" vertex="1">
           <mxGeometry x="70" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提高大數據平臺中存儲&lt;br&gt;和訪問海量數據的效率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-29">
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;海量數據&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;存儲高效&lt;/font&gt;&lt;br&gt;和&lt;font color=&quot;#ff0000&quot;&gt;訪問高效&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="uBuLERP5Y8FP9kmEtXCN-2" vertex="1">
           <mxGeometry x="20" y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;實現内存資源的精細化控制和即時替換策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-29">
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;内存資源&lt;/b&gt;&lt;font color=&quot;#ff0000&quot;&gt;即時替換&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;和&lt;font color=&quot;#ff0000&quot;&gt;精細化控制&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="uBuLERP5Y8FP9kmEtXCN-2" vertex="1">
           <mxGeometry x="20" y="120" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;設計可以提高數據互通&lt;br&gt;效率的異步互通機制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-29">
+        <mxCell id="YM-pc2uRU4Drdpsct8SV-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;任務數據&lt;font color=&quot;#ff0000&quot;&gt;異步互通&lt;/font&gt;&lt;br&gt;和&lt;font color=&quot;#ff0000&quot;&gt;高效互通&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="uBuLERP5Y8FP9kmEtXCN-2" vertex="1">
           <mxGeometry x="20" y="200" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;打破内存計算數據在軟&lt;br&gt;件和硬件的信息壁壘&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="YM-pc2uRU4Drdpsct8SV-29">
-          <mxGeometry x="20" y="280" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;endWidth=20.476190476190474;endSize=3.604761904761905;fillColor=#e8d7b0;strokeColor=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="620" as="targetPoint" />
-            <mxPoint x="290" y="620" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="360" y="620" />
-            </Array>
+        <mxCell id="uBuLERP5Y8FP9kmEtXCN-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=17.39130434782609;endSize=4.6695652173913045;fillColor=#ffe6cc;strokeColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YM-pc2uRU4Drdpsct8SV-23" target="YM-pc2uRU4Drdpsct8SV-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="620" as="sourcePoint" />
+            <mxPoint x="320" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;endWidth=20.476190476190474;endSize=3.604761904761905;fillColor=#e8d7b0;strokeColor=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="700" as="targetPoint" />
-            <mxPoint x="290" y="700" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="360" y="700" />
-            </Array>
+        <mxCell id="uBuLERP5Y8FP9kmEtXCN-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="770" width="540" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uBuLERP5Y8FP9kmEtXCN-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="uBuLERP5Y8FP9kmEtXCN-9" target="uBuLERP5Y8FP9kmEtXCN-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="880" as="sourcePoint" />
+            <mxPoint x="380" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YM-pc2uRU4Drdpsct8SV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;endWidth=20.476190476190474;endSize=3.604761904761905;fillColor=#e8d7b0;strokeColor=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="780" as="targetPoint" />
-            <mxPoint x="290" y="780" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="360" y="780" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="uBuLERP5Y8FP9kmEtXCN-14" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#7ea6e0&quot;&gt;普强公司&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;1.提高系統&lt;font color=&quot;#ff0000&quot;&gt;通用性&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;2.提高&lt;font color=&quot;#ff0000&quot;&gt;内存效率&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;3.提高服務器&lt;font color=&quot;#ff0000&quot;&gt;傳輸效率&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="770" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uBuLERP5Y8FP9kmEtXCN-15" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffb570&quot;&gt;小米公司&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;1.提高系統&lt;font color=&quot;#ff0000&quot;&gt;通用性&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;2.&lt;font color=&quot;#ff0000&quot;&gt;低延時&lt;/font&gt;計算&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;3.平臺&lt;font color=&quot;#ff0000&quot;&gt;靈活可擴展&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="770" width="150" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
